@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.left-column {
+    width: 96%;
+    background-color: black;
+    color: whitesmoke;
+    padding: 0.5rem;
+    display: flex;
+    justify-content: space-around;
+}
+
+.right-column {
+    width: 96%;
+    background-color: rgb(34, 35, 33);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+}
